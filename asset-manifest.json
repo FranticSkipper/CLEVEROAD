@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CLEVEROAD/static/css/main.a956c39a.chunk.css",
-    "main.js": "/CLEVEROAD/static/js/main.0fb76d23.chunk.js",
-    "main.js.map": "/CLEVEROAD/static/js/main.0fb76d23.chunk.js.map",
+    "main.js": "/CLEVEROAD/static/js/main.866b08d1.chunk.js",
+    "main.js.map": "/CLEVEROAD/static/js/main.866b08d1.chunk.js.map",
     "runtime-main.js": "/CLEVEROAD/static/js/runtime-main.d6b4db56.js",
     "runtime-main.js.map": "/CLEVEROAD/static/js/runtime-main.d6b4db56.js.map",
     "static/js/2.33dfbb1b.chunk.js": "/CLEVEROAD/static/js/2.33dfbb1b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d6b4db56.js",
     "static/js/2.33dfbb1b.chunk.js",
     "static/css/main.a956c39a.chunk.css",
-    "static/js/main.0fb76d23.chunk.js"
+    "static/js/main.866b08d1.chunk.js"
   ]
 }
